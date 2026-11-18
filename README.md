@@ -67,6 +67,7 @@ Skillsets:
 ## Featured Projects
 |Project Title |Project Deacription |Project link|
 |---------------|---------------|-----------|
+|Control Mappings|Mapping NIST CSF functions to ISO/IEC 27001 and NIST 800-53| [View project]()|
 ## 🛠️ Technical Skills & Areas of Development
 
 **Cybersecurity:** IAM, SOC operations, threat intelligence, GRC, risk assessment, incident response concepts.
