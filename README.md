@@ -16,7 +16,7 @@ Rongo University, Kenya | 2015–2019
 
 ## 🔬 Featured Academic Research
 
-### Protocol-Specific Intrusion Detection System Using Transfer Learning
+### Protocol-Specific Intrusion Detection System Using Transfer Learning-[view reasearch](https://github.com/choqie/cybersecurity-portfolio/tree/main/01-Academic-Research/EV-Intrusion-Detection)
 
 My MSc dissertation explored machine-learning approaches to detecting cyber threats within Electric Vehicle charging infrastructure, using the CICEVE 2024 dataset.
 
