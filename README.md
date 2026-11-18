@@ -36,9 +36,9 @@ Areas covered included:
 ## 💼 Professional Experience
 
 ### Halisans Technologies
-**Cybersecurity — Paid Professional Role** | November 2026–Present
+**Cybersecurity Analyst | November 2023–Present
 
-My work and practical development focus on three cybersecurity areas:
+Skillsets:
 
 **Identity & Access Management (IAM)**
 - Identity lifecycle concepts, including Joiner, Mover and Leaver processes.
@@ -60,22 +60,13 @@ My work and practical development focus on three cybersecurity areas:
 - Security policies and procedures.
 - Control assessments, audit evidence and remediation tracking.
 
-I document practical exercises and completed work separately, making clear whether an item is a learning exercise, simulated scenario or authorised professional activity.
-
-### Previous Professional Experience
-
 **ACCPA Solutions Inc.**
 - Account Manager | December 2022–9 December 2023
 - Data Research Analyst | 10 December 2023–February 2025
 
-**Sunset Electrical**  
-Documentation Personnel | June 2021–December 2022
-
-**Adept Technologies Kenya**  
-Data Digitization Agent | April 2022–October 2022
-
-These roles contributed to my experience in data research, documentation, reporting, information handling and professional communication.
-
+## Featured Projects
+|Project Title |Project Deacription |Project link|
+|---------------|---------------|-----------|
 ## 🛠️ Technical Skills & Areas of Development
 
 **Cybersecurity:** IAM, SOC operations, threat intelligence, GRC, risk assessment, incident response concepts.
